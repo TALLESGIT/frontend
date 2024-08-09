@@ -9,7 +9,7 @@ import Logo from "./Logo";
 
 export default function Rodape() {
 	return (
-		<footer className="container flex flex-col bg-black text-zinc-400 py-10 gap-10">
+		<footer className="container flex flex-col text-zinc-400 py-10 gap-10">
 			<div className="flex flex-col md:flex-row items-center md:items-start justify-between text-center gap-5 md:gap-0 md:text-left">
 				<Logo />
 				<div className="flex flex-col gap">

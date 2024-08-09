@@ -1,4 +1,4 @@
-import type Profissional from "@/core/profissional/Profissionla";
+import type Profissional from "@/core/profissional/Profissional";
 import {
 	IconBrandInstagram,
 	IconBrandLinkedin,
